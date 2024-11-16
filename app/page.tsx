@@ -1,6 +1,6 @@
-import { ElegantLandingPageComponent } from "@/components/elegant-landing-page"
+import { ElegantLandingPageComponent } from "@/components/elegant-landing-page";
 
-export default function Page() {
-  return <ElegantLandingPageComponent />
+export default function Home() {
+  return <ElegantLandingPageComponent />;
 }
-// Triggering new Vercel deployment
+
