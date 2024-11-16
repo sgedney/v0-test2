@@ -1,5 +1,5 @@
-import { LandingPage } from "@/components/elegant-landing-page"
+import { ElegantLandingPage } from "@/components/elegant-landing-page"
 
 export default function Page() {
-  return <LandingPage />
+  return <ElegantLandingPage />
 }
